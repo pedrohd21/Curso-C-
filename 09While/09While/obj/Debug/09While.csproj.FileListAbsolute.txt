@@ -1,0 +1,7 @@
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\09While\09While\bin\Debug\09While.exe.config
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\09While\09While\bin\Debug\09While.exe
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\09While\09While\bin\Debug\09While.pdb
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\09While\09While\obj\Debug\09While.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\09While\09While\obj\Debug\09While.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\09While\09While\obj\Debug\09While.exe
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\09While\09While\obj\Debug\09While.pdb

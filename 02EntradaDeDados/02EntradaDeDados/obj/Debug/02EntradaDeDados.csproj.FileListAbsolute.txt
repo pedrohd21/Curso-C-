@@ -1,0 +1,6 @@
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\02EntradaDeDados\02EntradaDeDados\bin\Debug\02EntradaDeDados.exe.config
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\02EntradaDeDados\02EntradaDeDados\bin\Debug\02EntradaDeDados.exe
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\02EntradaDeDados\02EntradaDeDados\bin\Debug\02EntradaDeDados.pdb
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\02EntradaDeDados\02EntradaDeDados\obj\Debug\02EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\02EntradaDeDados\02EntradaDeDados\obj\Debug\02EntradaDeDados.exe
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\02EntradaDeDados\02EntradaDeDados\obj\Debug\02EntradaDeDados.pdb

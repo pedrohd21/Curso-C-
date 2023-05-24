@@ -1,0 +1,7 @@
+C:\Users\Pedro\source\repos\06Funcoes\06Funcoes\bin\Debug\06Funcoes.exe.config
+C:\Users\Pedro\source\repos\06Funcoes\06Funcoes\bin\Debug\06Funcoes.exe
+C:\Users\Pedro\source\repos\06Funcoes\06Funcoes\bin\Debug\06Funcoes.pdb
+C:\Users\Pedro\source\repos\06Funcoes\06Funcoes\obj\Debug\06Funcoes.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\06Funcoes\06Funcoes\obj\Debug\06Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\06Funcoes\06Funcoes\obj\Debug\06Funcoes.exe
+C:\Users\Pedro\source\repos\06Funcoes\06Funcoes\obj\Debug\06Funcoes.pdb

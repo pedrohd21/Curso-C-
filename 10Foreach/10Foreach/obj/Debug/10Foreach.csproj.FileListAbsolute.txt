@@ -1,0 +1,7 @@
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\10Foreach\10Foreach\bin\Debug\10Foreach.exe.config
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\10Foreach\10Foreach\bin\Debug\10Foreach.exe
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\10Foreach\10Foreach\bin\Debug\10Foreach.pdb
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\10Foreach\10Foreach\obj\Debug\10Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\10Foreach\10Foreach\obj\Debug\10Foreach.exe
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\10Foreach\10Foreach\obj\Debug\10Foreach.pdb
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\10Foreach\10Foreach\obj\Debug\10Foreach.csproj.AssemblyReference.cache

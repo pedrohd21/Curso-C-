@@ -1,0 +1,6 @@
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\03OperadoresAritmeticos\03OperadoresAritmeticos\bin\Debug\03OperadoresAritmeticos.exe.config
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\03OperadoresAritmeticos\03OperadoresAritmeticos\bin\Debug\03OperadoresAritmeticos.exe
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\03OperadoresAritmeticos\03OperadoresAritmeticos\bin\Debug\03OperadoresAritmeticos.pdb
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\03OperadoresAritmeticos\03OperadoresAritmeticos\obj\Debug\03OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\03OperadoresAritmeticos\03OperadoresAritmeticos\obj\Debug\03OperadoresAritmeticos.exe
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\03OperadoresAritmeticos\03OperadoresAritmeticos\obj\Debug\03OperadoresAritmeticos.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\01Variaveis\01Variaveis\bin\Debug\01Variaveis.exe.config
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\01Variaveis\01Variaveis\bin\Debug\01Variaveis.exe
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\01Variaveis\01Variaveis\bin\Debug\01Variaveis.pdb
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\01Variaveis\01Variaveis\obj\Debug\01Variaveis.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\01Variaveis\01Variaveis\obj\Debug\01Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\01Variaveis\01Variaveis\obj\Debug\01Variaveis.exe
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\01Variaveis\01Variaveis\obj\Debug\01Variaveis.pdb

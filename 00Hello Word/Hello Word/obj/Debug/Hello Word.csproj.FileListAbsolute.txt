@@ -1,0 +1,7 @@
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\Hello Word\Hello Word\bin\Debug\Hello Word.exe.config
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\Hello Word\Hello Word\bin\Debug\Hello Word.exe
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\Hello Word\Hello Word\bin\Debug\Hello Word.pdb
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\Hello Word\Hello Word\obj\Debug\Hello Word.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\Hello Word\Hello Word\obj\Debug\Hello Word.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\Hello Word\Hello Word\obj\Debug\Hello Word.exe
+C:\Users\Pedro\Documents\GitHub\Cursos-Feitos\C#\Hello Word\Hello Word\obj\Debug\Hello Word.pdb
